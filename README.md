@@ -29,3 +29,5 @@ tcr.pair <- pair_TCR(tcr.all)
 bg <- estBgNoise(test.data, nc.data) # inspect background noise to choose cutoff
 binders <- Identify_binders(test.data, tcr.pair, out_dir = path_to_output_files)
 ```
+## License
+License can be found in the file LICENSE.
