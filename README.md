@@ -1,5 +1,5 @@
 # ICON
-ICON is an R package for identifing reliable TCR-pMHC interactions from multi-omics multiplexed multimer binding single cell sequencing data (Zhang et al. 2020).
+ICON is an R package for identifing reliable TCR-pMHC interactions from multi-omics multiplexed multimer binding single cell sequencing data (Zhang et al. 2021).
 
 ## Install and load ICON package:
 ```
