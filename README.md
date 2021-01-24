@@ -3,8 +3,7 @@ ICON is an R package for identifing reliable TCR-pMHC interactions from multi-om
 
 ## Install and load ICON package:
 ```
-library('devtools')
-install_github('regeneron-mpds/ICON') # R version >= 3.6.1
+devtools::install_github('regeneron-mpds/ICON') # R version >= 3.6.1
 library('ICON')
 ```
 ## Steps to run ICON:
